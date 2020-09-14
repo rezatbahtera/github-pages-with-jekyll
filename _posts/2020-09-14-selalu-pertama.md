@@ -1,1 +1,4 @@
-title: ini halaman pertama
+---
+title: "blog pertama"
+date: 2020-09-15
+---
